@@ -1,4 +1,4 @@
-Mod 1 Come up with an app name Project
+Plants 'n Pups
 ===
 
 ## Domain Model
@@ -8,7 +8,7 @@ Puppy -< Visit >- Plant
 ## User Stories
 
 As a user, I can...
-- Login as a puppy (Read)
+- [x] Login as a puppy (Read)
 - View my profile (Read) 
 - View a list of all the plants I've visited (Read)
 - Visit a new plant (Create)

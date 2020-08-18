@@ -55,11 +55,11 @@ Project Tracking:
 
 For each CRUD action, answer these questions:
 - What am I getting/changing in the database? 
-  - *insert a new row in the Review table. Review.create*
+  - *insert a new row in the Visit table*
 - What object(s) are involved? 
-  - *Game, Review, Player*
+  - *puppy_id, plant_id, scent_notes*
 - What's some code for this problem that works in the console? 
-  - *Review.create(game_id: , player_id: , rating)*
+  - 
 - What steps did I do in the console to get that result?
   - *I found a the id for the player who was logged in, then I found a game_id, then entered a rating* 
 
